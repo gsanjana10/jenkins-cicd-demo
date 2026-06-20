@@ -1,4 +1,4 @@
-# 🚀 Jenkins CI/CD Pipeline Demo
+# 🚀 Jenkins CI/CD Pipeline
 
 This project demonstrates a basic Continuous Integration (CI) pipeline using Jenkins and GitHub. Jenkins automatically pulls source code from a GitHub repository and executes build steps.
 
