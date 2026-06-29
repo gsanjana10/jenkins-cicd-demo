@@ -36,23 +36,7 @@ jenkins-cicd-demo
 4. Console Output is generated
 5. Build status is displayed
 
-## 📸 Screenshots
-
-### Jenkins Dashboard
-
-(Add Screenshot Here)
-
-### Successful Build
-
-(Add Screenshot Here)
-
-### Console Output
-
-(Add Screenshot Here)
-
-### GitHub Repository
-
-(Add Screenshot Here)
+### Console Out
 
 ## 📋 Console Output
 
